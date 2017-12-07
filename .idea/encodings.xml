@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/core/BasePage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/core/BaseTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/core/DriverFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/core/Properties.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/core/Utilities.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/AddAccountPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/AddMovimentToAccount.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/EditAccountPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/ListAccountsPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/LoggedUserPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/MonthlySummaryPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/pages/NovoUsuarioPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/tests/ContasTests.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/tests/MovimentacaoTests.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/tests/ResumoTests.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/tests/UserTests.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

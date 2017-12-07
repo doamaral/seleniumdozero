@@ -1,0 +1,11 @@
+1. Inserir Conta
+2. Alterar Conta
+3. Inserir Conta com o mesmo nome
+4. Inserir movimentação
+5. Campos Obrigatórios da Movimentação
+6. Movimentação futura (Registros tem que ter datas menores que o dia de hoje)
+7. Remover Movimentação
+
+8. Remover conta com movimentação
+9. Saldo de Contas
+10. Resumo Mensal
