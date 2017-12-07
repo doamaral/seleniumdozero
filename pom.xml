@@ -8,8 +8,8 @@
         <maven.compiler.target>1.6</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <groupId>br.com.projetocompleto</groupId>
-    <artifactId>projeto-completo</artifactId>
+    <groupId>br.com.seleniumdozero</groupId>
+    <artifactId>selenium-do-zero</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
         <testSourceDirectory>
